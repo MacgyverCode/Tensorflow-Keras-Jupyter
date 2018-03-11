@@ -19,7 +19,8 @@ Copy/paste this URL into your browser when you connect for the first time,
 ![command](command.png)
 
 
-###More Information about Docker Image
+##More Information about Docker Image
+
 [https://hub.docker.com/r/macgyvertechnology/tensorflow-keras-jupyter/](https://hub.docker.com/r/macgyvertechnology/tensorflow-keras-jupyter/)
 
 
